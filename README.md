@@ -35,11 +35,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployment
 
-The project is deployed on Vercel and available at [manishk.dev](https://manishk.dev).
-
-## Developer Information
-
-This project has been developed, designed and deployed by Manish Kumar.
+The project is deployed on Vercel and available at [suchi](https://manishk.dev).
 
 Reach me out:
 <br>
